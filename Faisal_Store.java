@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Faisal_Store {
-    public static final String fileName = "inventory1.txt";
+    public static final String fileName = "FAISAL_TXT.txt";
     
     public static void main(String[] args) {
        
